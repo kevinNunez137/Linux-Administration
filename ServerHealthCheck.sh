@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # ==============================================================================
-# SERVER HEALTH MONITOR SCRIPT (CentOS & Ubuntu Compatible)
+# SERVER HEALTH MONITOR SCRIPT 
 # Collects CPU, memory, disk, and network metrics and writes a single structured
 # JSON report per execution for human readability and dashboard ingestion.
 # ==============================================================================
